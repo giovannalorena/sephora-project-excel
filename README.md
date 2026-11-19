@@ -41,7 +41,11 @@ It includes detailed information on:
 -  Data Organization
 -  Insights Gained:
 
-
+Skill: Power Query (ETL)
+ Extract:
+ - I first used Power Query to extract the original data (SEPHORA_products_project.xlsx) and create four queries:
+   - First one with all the sephora items information.
+   - The second 
 
 
   
